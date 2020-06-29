@@ -20,5 +20,3 @@ after_success:
   - docker push vanshik/multi-nginx
   - docker push vanshik/multi-server
   - docker push vanshik/multi-worker
-
-
